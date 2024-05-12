@@ -101,3 +101,7 @@ footer {
   .buyy {
     cursor: pointer;
   }
+
+  .blog {
+    margin-top: 8px;
+  }
